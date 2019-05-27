@@ -2,4 +2,4 @@
 
 ## Participantes
 
-- Bruno Jimenez
+- Bruno Jimenez Chavez
