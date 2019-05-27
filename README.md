@@ -2,5 +2,6 @@
 
 ## Participantes
 
-- Bruno 
-- Cesar
+- Bruno Jimenez Chavez
+- César González
+
